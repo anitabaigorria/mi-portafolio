@@ -29,7 +29,7 @@ También puedes simplemente linkearla al descargar el repositorio, la carpeta ll
 
 ## Vista en vivo 📦
 
-Podés descargar el proyecto y visualizarlo localmente haciendo click en el archivo **index.html** o haciendo click en el siguiente **[enlace](https://github.com/anitabaigorria/mi-portafolio)**
+Podés descargar el proyecto y visualizarlo localmente haciendo click en el archivo **index.html** o haciendo click en el siguiente **[enlace]([https://github.com/anitabaigorria/mi-portafolio](https://anitabaigorria.github.io/mi-portafolio/))**
 
 ## Autor/es ✒️
 
